@@ -1,0 +1,11 @@
+table,td{
+    width:60px;
+    border: 2px groove black;
+    padding: 10px;
+    border-spacing: 10px;
+}
+td:hover{
+    background-color: aqua;
+    transform: scale(1.5);
+    transition: 3s;
+}
